@@ -1,0 +1,7 @@
+{
+  "name": "邦布",
+  "description": "A cute, interactive desktop robot assistant inspired by Bangboo. Features voice interaction, facial expressions, music mode, and more.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
